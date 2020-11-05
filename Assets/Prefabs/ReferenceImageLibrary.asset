@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5697924037709078280
+  m_GuidHigh: 11680426682949560450
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4976903066357758005
+      m_GuidHigh: 3083526835198133407
+    m_SerializedTextureGuid:
+      m_GuidLow: 6878125666144874046
+      m_GuidHigh: 18226466770910039608
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gdd-logo-black
+    m_Texture: {fileID: 2800000, guid: fb0fee3e02d95f7438ce8dcef56af1fc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5064399205239389291
+      m_GuidHigh: 17696861621765621182
+    m_SerializedTextureGuid:
+      m_GuidLow: 2672002256195558424
+      m_GuidHigh: 16382910728022793273
+    m_Size: {x: 0.49122807, y: 0.27318817}
+    m_SpecifySize: 1
+    m_Name: MordeProfile
+    m_Texture: {fileID: 2800000, guid: 27941c18dbe52514391cbcba81ca5be3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5618031315372856695
+      m_GuidHigh: 3796855240244097983
+    m_SerializedTextureGuid:
+      m_GuidLow: 3572661578662993492
+      m_GuidHigh: 11326074368265273387
+    m_Size: {x: 0.5, y: 0.2920099}
+    m_SpecifySize: 1
+    m_Name: TeemoProfile
+    m_Texture: {fileID: 2800000, guid: eae4de54a4c631942bc01b3ca14c2e9d, type: 3}
